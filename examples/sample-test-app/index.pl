@@ -9,7 +9,7 @@ print <<EOF
 <html>
 <head><title>Everything is OK</title></head>
 <body>
-Everything is fine.
+Hello world. This is the beginning
 </body>
 </html>
 EOF
